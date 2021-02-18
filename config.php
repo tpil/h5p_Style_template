@@ -1,6 +1,6 @@
 <?php
 
-$THEME->name = 'h5pmod';
+$THEME->name = 'h5pGrGenious';
 
 /////////////////////////////////
 // The only thing you need to change in this file when copying it to
